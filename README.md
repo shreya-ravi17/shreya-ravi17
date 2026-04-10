@@ -14,34 +14,9 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
----
-
-#### 🌐 Web Development (MERN Stack)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
----
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
----
-
-#### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode&perline=14" />
+</p>
 
 ### 📊 GitHub Stats
 
