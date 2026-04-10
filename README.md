@@ -9,10 +9,7 @@
 - 🎓 Computer Science Engineering Student  
 - 💡 Interested in **AI, Machine Learning & Software Development**  
 - 🌱 Currently learning **Advanced Full Stack Development**  
-- 🎯 Goal: Work at **top tech companies like Google**  
-- 💬 Ask me about **C, Java, Python, MERN Stack**  
-- ⚡ Fun fact: I love building projects that solve real-world problems  
-
+- 🎯 Goal: **To build impactful software solutions and grow as a skilled developer in the tech industry**  
 ---
 
 ### 🛠️ Tech Stack
@@ -58,12 +55,7 @@
 
 ---
 
-### 🚀 Top Projects
 
-- 🌱 **AI-Based Crop Disease Detection (CNN)**  
-- 📱 **AI-Driven Judicial Document Summarizer**  
-
----
 
 ### 📫 Connect with Me
 
