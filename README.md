@@ -38,7 +38,7 @@
 <a href="https://linkedin.com/in/shreyamashelkar7" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:shreyamashelkar1712@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shreyamashelkar1712@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
