@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya</h1>
+<h1 align="center">Hi 👋, I'm Shreya Ravi Mashelkar</h1>
 <h3 align="center">🚀 Aspiring Software Developer | AI & Data Science Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
