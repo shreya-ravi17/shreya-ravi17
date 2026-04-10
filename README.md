@@ -18,6 +18,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,tensorflow,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,firebase,androidstudio,git,github,vscode&perline=14" />
 </p>
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -27,8 +28,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-ravi17&theme=radical" />
 </p>
----
 
+---
 
 
 ### 📫 Connect with Me
