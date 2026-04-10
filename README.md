@@ -60,9 +60,8 @@
 
 ### 🚀 Top Projects
 
-- 🔍 **Phishing Website Detection**  
 - 🌱 **AI-Based Crop Disease Detection (CNN)**  
-- 📱 **EduConnect App (MERN Stack Project)**  
+- 📱 **AI-Driven Judicial Document Summarizer**  
 
 ---
 
@@ -81,7 +80,7 @@
 
 ### ✨ Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=shreya-ravi17&color=blue)
 
 ---
 
