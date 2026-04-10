@@ -23,11 +23,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-ravi17&show_icons=true&theme=radical&cache_seconds=30&v=3" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreya-ravi17&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-ravi17&theme=radical&cache_seconds=30&v=3" />
+  <img src="https://streak-stats.demolab.com?user=shreya-ravi17&theme=radical" />
 </p>
 
 ---
