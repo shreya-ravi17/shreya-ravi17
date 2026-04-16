@@ -46,9 +46,3 @@
 
 ---
 
-### ✨ Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=shreya-ravi17&color=blue)
-
----
-
